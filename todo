@@ -1,0 +1,27 @@
+Single bar unit
+----------------------
+|           |           |
+|           |           |
+|           |           |
+----------------------
+Basic window unit with one bar.
+
+#Maths
+barSize = height - 27; // 12mm for frame, 1.5mm for a key that goes into the bar 12 +1.5 = 13.5, there is to sides so *2 = 27
+
+Simple crossed bar unit
+----------------------
+|           |           |
+|           |           |
+|           |           |
+----------------------
+|           |           |
+|           |           |
+|           |           |
+----------------------
+This is more complicated, but not the most complicated.
+bar is 18mm thick (usualy, there are different types, but we will start on this one)
+
+#Maths
+horizontalBar = width - 27 - 18; (18mm is a barThickness, I put it separatelly to make a point of reference)
+verticalBar = height - 27 - 18;
