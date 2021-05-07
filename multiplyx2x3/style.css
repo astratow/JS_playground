@@ -1,0 +1,16 @@
+/*style.css*/
+.container{
+	margin: auto;
+	width: 300px;
+	background-color: lightblue;
+	padding: 5px;
+}
+input{
+	padding: :5px;
+	border-radius: 4px;
+	text-align:  center;
+
+}
+label{
+	font-weight: bold;
+}

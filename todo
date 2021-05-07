@@ -25,3 +25,4 @@ bar is 18mm thick (usualy, there are different types, but we will start on this 
 #Maths
 horizontalBar = width - 27 - 18; (18mm is a barThickness, I put it separatelly to make a point of reference)
 verticalBar = height - 27 - 18;
+
